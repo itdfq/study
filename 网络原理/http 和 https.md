@@ -15,4 +15,4 @@
 4. https使用端口为443，http用的是80
 5. https其实就是构建在ssl/TLS之上的http协议，所以https比http更要消耗服务器资源
 
-![Snipaste_2021-11-19_10-02-25](E:\study\study\网络原理\image\Snipaste_2021-11-19_10-02-25.png)
+![Snipaste_2021-11-19_10-02-25](https://github.com/itdfq/study/edit/main/网络原理/image/Snipaste_2021-11-19_10-02-25.png)
